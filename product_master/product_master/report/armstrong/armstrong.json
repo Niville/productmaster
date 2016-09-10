@@ -1,0 +1,19 @@
+{
+ "add_total_row": 0, 
+ "apply_user_permissions": 1, 
+ "creation": "2016-07-10 11:18:44.854878", 
+ "disabled": 0, 
+ "docstatus": 0, 
+ "doctype": "Report", 
+ "idx": 0, 
+ "is_standard": "Yes", 
+ "json": "{\"filters\":[[\"Quotationmaster\",\"customer\",\"=\",\"ARMSTRONG\"]],\"columns\":[[\"customer\",\"Quotationmaster\"],[\"name\",\"Quotationmaster\"],[\"pd\",\"Quotationmaster\"],[\"standard_rate\",\"Quotationmaster\"],[\"bcppc\",\"Quotationmaster\"],[\"tddc\",\"Quotationmaster\"],[\"ms\",\"Quotationmaster\"],[\"hammer\",\"Quotationmaster\"]],\"sort_by\":\"Quotationmaster.modified\",\"sort_order\":\"desc\",\"sort_by_next\":null,\"sort_order_next\":\"desc\"}", 
+ "modified": "2016-07-13 17:25:27.707637", 
+ "modified_by": "Administrator", 
+ "module": "Product Master", 
+ "name": "Armstrong", 
+ "owner": "Administrator", 
+ "ref_doctype": "Quotationmaster", 
+ "report_name": "Armstrong", 
+ "report_type": "Report Builder"
+}
